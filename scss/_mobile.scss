@@ -1,0 +1,17 @@
+@media(max-width: 700px){
+  // Landing Page
+#landing-page {
+  .wrapper {
+    flex-wrap: wrap;
+  }
+
+  .landing-page-text {
+    width: 100%;
+    padding-right: 0;
+  }//End .landing-page-text
+
+  .landing-page-form {
+    width: 100%;
+  }//End .landing-page-form
+} //End #landing-page
+}
